@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 
 
 #### Once all packages are installed simply run the following to get the server running:
-$ python main.py
+$ python pong_AI.py
 
 #### Note: It might take some time for the simulation to produce results.
 
